@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectMap", "AspectMap\AspectMap.csproj", "{04E90CFF-F2BF-44F5-A4A9-6AD5E8D99228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectMap.Tests", "AspectMap.Tests\AspectMap.Tests.csproj", "{13CCF729-7C7E-4C06-ABCF-70426CFA205C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs30
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AspectMap.Tests\\AspectMap.Tests.csproj
+		SccProjectName1 = AspectMap.Tests
+		SccLocalPath1 = AspectMap.Tests
+		SccProjectUniqueName2 = AspectMap\\AspectMap.csproj
+		SccProjectName2 = AspectMap
+		SccLocalPath2 = AspectMap
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E90CFF-F2BF-44F5-A4A9-6AD5E8D99228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E90CFF-F2BF-44F5-A4A9-6AD5E8D99228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E90CFF-F2BF-44F5-A4A9-6AD5E8D99228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E90CFF-F2BF-44F5-A4A9-6AD5E8D99228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CCF729-7C7E-4C06-ABCF-70426CFA205C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CCF729-7C7E-4C06-ABCF-70426CFA205C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CCF729-7C7E-4C06-ABCF-70426CFA205C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CCF729-7C7E-4C06-ABCF-70426CFA205C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
