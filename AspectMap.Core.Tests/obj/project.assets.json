@@ -2927,7 +2927,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "AspectMap.Core/1.0.0": {
+      "AspectMap.Core/0.0.2-local": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
@@ -8620,7 +8620,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "AspectMap.Core/1.0.0": {
+    "AspectMap.Core/0.0.2-local": {
       "type": "project",
       "path": "../AspectMap.Core/AspectMap.Core.csproj",
       "msbuildProject": "../AspectMap.Core/AspectMap.Core.csproj"
@@ -8628,7 +8628,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
-      "AspectMap.Core >= 1.0.0",
+      "AspectMap.Core >= 0.0.2-local",
       "FluentAssertions >= 4.19.4",
       "Microsoft.NET.Test.Sdk >= 15.3.0",
       "Microsoft.NETCore.App >= 1.1.2",
@@ -8660,6 +8660,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "http://nuget.carfinance247.co.uk/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -8671,6 +8672,11 @@
             }
           }
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

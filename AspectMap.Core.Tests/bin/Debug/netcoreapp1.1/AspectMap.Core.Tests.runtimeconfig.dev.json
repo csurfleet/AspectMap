@@ -1,6 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+      "C:\\Users\\chris.surfleet\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\chris.surfleet\\.nuget\\packages"
     ]
   }
