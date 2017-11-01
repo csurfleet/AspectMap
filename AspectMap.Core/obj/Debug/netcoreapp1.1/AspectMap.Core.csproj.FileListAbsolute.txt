@@ -1,8 +1,0 @@
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\bin\Debug\netcoreapp1.1\AspectMap.Core.deps.json
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\bin\Debug\netcoreapp1.1\AspectMap.Core.dll
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\bin\Debug\netcoreapp1.1\AspectMap.Core.pdb
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\obj\Debug\netcoreapp1.1\AspectMap.Core.csproj.CoreCompileInputs.cache
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\obj\Debug\netcoreapp1.1\AspectMap.Core.AssemblyInfoInputs.cache
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\obj\Debug\netcoreapp1.1\AspectMap.Core.AssemblyInfo.cs
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\obj\Debug\netcoreapp1.1\AspectMap.Core.dll
-C:\Users\chris.surfleet\source\repos\AspectMap\AspectMap.Core\obj\Debug\netcoreapp1.1\AspectMap.Core.pdb
