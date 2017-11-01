@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
-    <Version Condition=" '$(BUILD_BUILDNUMBER)' == '' ">0.0.2-local</Version>
+    <Version Condition=" '$(BUILD_BUILDNUMBER)' == '' ">0.0.2.2</Version>
     <Version Condition=" '$(BUILD_BUILDNUMBER)' != '' ">$(BUILD_BUILDNUMBER)</Version>
   </PropertyGroup>
 
