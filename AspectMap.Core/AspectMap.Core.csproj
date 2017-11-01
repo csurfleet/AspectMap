@@ -2,8 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
-    <Version Condition=" '$(BUILD_BUILDNUMBER)' == '' ">0.0.2.2</Version>
-    <Version Condition=" '$(BUILD_BUILDNUMBER)' != '' ">$(BUILD_BUILDNUMBER)</Version>
+    <Version>0.0.2.2</Version>
+      <!-- Condition=" '$(BUILD_BUILDNUMBER)' == '' "-->
+    <!--<Version Condition=" '$(BUILD_BUILDNUMBER)' != '' ">$(BUILD_BUILDNUMBER)</Version>-->
   </PropertyGroup>
 
   <ItemGroup>
